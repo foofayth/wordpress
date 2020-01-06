@@ -1,0 +1,7 @@
+/* 
+position anchor icon in front of css id assigned heading titles
+*/
+a.heading-link {
+    position: absolute;
+    left: -15px;
+}
